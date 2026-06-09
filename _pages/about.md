@@ -13,10 +13,10 @@ I have three years of industry experience in remote driving of container truck a
 
 Employment
 ------
-- 2021-2024, **Software Engineer**. Department of Remote Driving, Hirain Technologies, Beijing, China.
+- 2021--2024, **Software Engineer**. Department of Remote Driving, Hirain Technologies, Beijing, China.
   
   Develop video transmission via 5G of remote driving for container truck at harbor.
-- 2014-2018, **Power Engineer**. Department of Power Generation, Guodian Datong Generations, Datong, China.
+- 2014--2018, **Power Engineer**. Department of Power Generation, Guodian Datong Generations, Datong, China.
   
   Operation and maintenance work at power plant.
 
