@@ -28,10 +28,10 @@ Employment
 
 Education
 ------
-- [2024 -- now ] &nbsp;|&nbsp; **Ph.D.** &nbsp;|&nbsp; Kennesaw State University in Interdisciplinary Engineering.
-- [2018 -- 2021] &nbsp;|&nbsp; **M.S.**  &nbsp;|&nbsp; Arkansas State University in Computer Science.
-- [2011 -- 2014] &nbsp;|&nbsp; **M.S.**  &nbsp;|&nbsp; Inner Mongolia University of Science & Technology in Power Engineering.
-- [2007 -- 2011] &nbsp;|&nbsp; **B.S.**  &nbsp;|&nbsp; Taiyuan University of Technology in Power Engineering.
+- [2024 -- now ] &nbsp;|&nbsp; **Ph.D.**  &nbsp;|&nbsp; Kennesaw State University in Interdisciplinary Engineering.
+- [2018 -- 2021] &nbsp;|&nbsp; **M.S. **  &nbsp;|&nbsp; Arkansas State University in Computer Science.
+- [2011 -- 2014] &nbsp;|&nbsp; **M.S. **  &nbsp;|&nbsp; Inner Mongolia University of Science & Technology in Power Engineering.
+- [2007 -- 2011] &nbsp;|&nbsp; **B.S. **  &nbsp;|&nbsp; Taiyuan University of Technology in Power Engineering.
 
 Skills
 ------
