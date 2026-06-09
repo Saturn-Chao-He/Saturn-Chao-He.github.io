@@ -21,10 +21,10 @@ Employment
 ------
 - [2021 -- 2024] &nbsp;&nbsp; **Software Engineer**. &nbsp;&nbsp; Department of Remote Driving, Hirain Technologies, Beijing, China.
   
-  * Develop video transmission via 5G of remote driving for container truck at harbor.
+  Develop video transmission via 5G of remote driving for container truck at harbor.
 - [2014 -- 2018] &nbsp;&nbsp; **Power Engineer**. &nbsp;&nbsp; Department of Power Generation, Guodian Datong Generations, Datong, China.
   
-  * Operation and maintenance work at power plant.
+  Operation and maintenance work at power plant.
 
 Education
 ------
