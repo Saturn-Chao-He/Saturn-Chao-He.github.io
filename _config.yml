@@ -12,8 +12,8 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Chao He"
 title_separator          : "-"
 name                     : &name "Chao He"
-description              : &description "Chao He's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://Saturn-Chao-He.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+description              : &description "Ph.D. Candidate, Interdisciplinary Engineering, KSU"   # Update this with a general description of your site, this is the default if not overridden by a page
+url                      : "https://saturn-chao-he.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Saturn-Chao-He.github.io"
@@ -27,7 +27,7 @@ author:
   name             : "Chao He"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Atlanta"
+  location         : "Atlanta, Georgia"
   employer         : "Kennesaw State University"
   uri              : # URL
   email            : "che4@students.kennesaw.edu" 
@@ -66,7 +66,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "chao-he-183273204"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
