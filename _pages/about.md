@@ -11,6 +11,12 @@ I am a Ph.D. candidate in Interdisciplinary Engineering at Kennesaw State Univer
 
 I have three years of industry experience in remote driving of container truck at Hirain Technologies, Beijing. I am actively seeking **postdoctoral positions** in robotics starting August 2027.
 
+## Research Interests
+- LiDAR point cloud processing and perception
+- Robotic grasping and manipulation
+- Remote control
+- Sensor fusion
+
 Employment
 ------
 - 2021--2024, **Software Engineer**. Department of Remote Driving, Hirain Technologies, Beijing, China.
