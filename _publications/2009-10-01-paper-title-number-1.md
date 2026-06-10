@@ -1,14 +1,45 @@
 ---
-title: "Paper Title Number 1"
+title: "LiGrasp: Camera-Free 6-DoF Robotic Grasp Pose Estimation via LiDAR Intensity Image and Point Cloud Fusion"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2025-lidar-grasping
+excerpt: 'A novel LiDAR-based approach for robotic grasping.'
+date: 2026-03-01
+venue: 'IEEE Robotics and Automation Letters (RA-L)'
+paperurl: 'https://arxiv.org/abs/YOUR_ID'
+citation: 'Chao He and Da Hu. (2026). &quot;LiGrasp: Camera-Free 6-DoF Robotic Grasp Pose Estimation via LiDAR Intensity Image and Point Cloud Fusion.&quot; <i>RA-L</i>.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+
+## Abstract
+In recent years, high-resolution LiDAR sensors have become standard equipment on legged robots, autonomous ground vehicles, and unmanned aerial systems. Can the LiDAR sensor already present on the robot be used directly for grasp pose estimation, without adding a separate RGB-D camera? We argue the answer is yes, and present LiGrasp, the first camera-free 6-DOF grasp detection framework using only a LiDAR sensor. LiGrasp employs a dual-branch architecture that fuses two complementary LiDAR modalities: a 2D intensity branch that encodes object boundaries, surface material properties, and principal axis orientation, and a 3D geometric branch that captures spatial structure and local shape features. The two branches are fused into a unified representation decoded into a full 6-DoF grasp pose with gripper width. We collect a dataset of 927 annotated scenes across 20 diverse objects using an Ouster-OS1-128 LiDAR sensor. Experiments demonstrate that LiGrasp achieves a mean position error of 27.5 mm and orientation error of 8.4° on seen objects, and generalizes to completely unseen objects with negligible degradation (27.4 mm, 10.6°), confirming that the model learns object-agnostic geometric features rather than object-specific appearance. The grasp success rate of unseen objects is 82.5%.
+
+## Method Overview
+
+![Pipeline overview](/images/paper1_pipeline.png)
+*Figure 1: Our proposed LiDAR-based grasping pipeline.*
+
+## Qualitative Results
+
+![Results](/images/paper1_results.png)
+*Figure 2: Grasping results on real robot hardware.*
+
+## Demo Video
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/YOUR_VIDEO_ID" 
+  title="LiDAR Grasping Demo" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; 
+         encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+## Citation
+```bibtex
+@article{he2025lidar,
+  author  = {He, Chao and others},
+  title   = {LiDAR-Based Robotic Grasping},
+  journal = {IEEE Robotics and Automation Letters},
+  year    = {2025}
+}
+```
