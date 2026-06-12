@@ -53,7 +53,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 <div style="text-align: center;">
   <img src="/images/ligrasp-ui.png" 
        alt="UI" 
-       width="500">
+       width="700">
   <p><em>User interface of the annotation tool.</em></p>
 </div>
 
