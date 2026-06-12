@@ -26,10 +26,10 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
     concatenated and decoded into a 7-dimensional grasp pose.*
 
 ![Setup](/images/ligrasp-setup.png)
-*Figure 3: User interface of the annotation tool.*
+*Figure 3: Setup for data collection of 2D intensity image (left) and 3D point cloud (right). (Most scenes were captured in darkness at night to demonstrate the sensor's illumination-independent operation.)*
 
-![UI](/images/ligrasp-setup.png)
-*Figure 4: Setup for data collection of 2D intensity image (left) and 3D point cloud (right). (Most scenes were captured in darkness at night to demonstrate the sensor's illumination-independent operation.)*
+![UI](/images/ligrasp-ui.png)
+*Figure 4: User interface of the annotation tool.*
 
 ## Results
 
