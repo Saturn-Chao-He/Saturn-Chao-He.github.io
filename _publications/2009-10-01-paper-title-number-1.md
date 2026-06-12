@@ -29,7 +29,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 <div style="text-align: center;">
   <img src="/images/ligrasp-arc.png" 
        alt="LiGrasp dual-branch architecture" 
-       width="700">
+       width="900">
   <p><em>Figure 2: LiGrasp dual-branch architecture. The intensity branch
     (top) processes the 2D LiDAR intensity image with an image encoder.
     The geometric branch (bottom) processes the 3D point cloud with a
@@ -53,7 +53,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 <div style="text-align: center;">
   <img src="/images/ligrasp-ui.png" 
        alt="UI" 
-       width="700">
+       width="900">
   <p><em>User interface of the annotation tool.</em></p>
 </div>
 
