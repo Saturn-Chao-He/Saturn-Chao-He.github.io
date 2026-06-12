@@ -6,6 +6,8 @@ permalink: /publication/2025-lidar-grasping
 excerpt: 'A novel LiDAR-based approach for robotic grasping.'
 date: 2026-04-20
 venue: 'IEEE Robotics and Automation Letters (RA-L)'
+header:
+  teaser: "ligrasp-demo.gif"
 paperurl: 'https://arxiv.org/abs/YOUR_ID'
 citation: 'Chao He and Da Hu. (2026). &quot;LiGrasp: Camera-Free 6-DoF Robotic Grasp Pose Estimation via LiDAR Intensity Image and Point Cloud Fusion.&quot; <i>****</i>.'
 ---
