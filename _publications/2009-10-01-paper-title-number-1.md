@@ -54,7 +54,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
   <img src="/images/ligrasp-ui.png" 
        alt="UI" 
        width="900">
-  <p><em>User interface of the annotation tool.</em></p>
+  <p><em>Figure 4: User interface of the annotation tool.</em></p>
 </div>
 
 <br>
