@@ -18,32 +18,70 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 <div style="text-align: center;">
   <img src="/images/ligrasp-signal_pcd.png" 
        alt="LiDAR's 2D intensity image and 3D point cloud" 
-       width="500">
+       width="400">
   <p><em>Figure 1: 2D intensity image (top) and 3D point cloud (bottom) captured 
   by the Ouster-OS1-128 LiDAR. The scene contains a myCobot 320 robotic arm 
   with gripper and a tea box.</em></p>
 </div>
 
-![LiGrasp dual-branch architecture](/images/ligrasp-arc.png)
-*Figure 2: LiGrasp dual-branch architecture. The intensity branch
+<br>
+
+<div style="text-align: center;">
+  <img src="/images/ligrasp-arc.png" 
+       alt="LiGrasp dual-branch architecture" 
+       width="700">
+  <p><em>Figure 2: LiGrasp dual-branch architecture. The intensity branch
     (top) processes the 2D LiDAR intensity image with an image encoder.
     The geometric branch (bottom) processes the 3D point cloud with a
     point cloud encoder. Both feature vectors are
-    concatenated and decoded into a 7-dimensional grasp pose.*
+    concatenated and decoded into a 7-dimensional grasp pose.</em></p>
+</div>
 
-![Setup](/images/ligrasp-setup.png)
-*Figure 3: Setup for data collection of 2D intensity image (left) and 3D point cloud (right). (Most scenes were captured in darkness at night to demonstrate the sensor's illumination-independent operation.)*
+<br>
 
-![UI](/images/ligrasp-ui.png)
-*Figure 4: User interface of the annotation tool.*
+<div style="text-align: center;">
+  <img src="/images/ligrasp-setup.png" 
+       alt="Setup" 
+       width="400">
+  <p><em>Figure 3: Setup for data collection of 2D intensity image (left) and 3D 
+  point cloud (right). (Most scenes were captured in darkness at night to demonstrate 
+  the sensor's illumination-independent operation.)</em></p>
+</div>
+
+<br>
+
+<div style="text-align: center;">
+  <img src="/images/ligrasp-ui.png" 
+       alt="UI" 
+       width="700">
+  <p><em>User interface of the annotation tool.</em></p>
+</div>
+
+<br>
 
 ## Results
 
-![Results](/images/ligrasp-results.png)
-*Figure 5: Qualitative grasp predictions on validation and unseen test scenes. (Green ones indicate the ground truths. Orange gripper shows the predicted grasp pose. From left to right, top to bottom, these objects are table lamp, bottle, cup, power adaptor, KSU owl mascot, banana, mini Bluetooth speaker, stapler and doll).*
+<div style="text-align: center;">
+  <img src="/images/ligrasp-results.png" 
+       alt="Results" 
+       width="400">
+  <p><em>Figure 5: Qualitative grasp predictions on validation and unseen test scenes. 
+  (Green ones indicate the ground truths. Orange gripper shows the predicted grasp pose. 
+  From left to right, top to bottom, these objects are table lamp, bottle, cup, power 
+  adaptor, KSU owl mascot, banana, mini Bluetooth speaker, stapler and doll.)</em></p>
+</div>
 
-![Execution](/images/ligrasp-execute.png)
-*Figure 6: Real-world grasp execution. (The toilet roll is a unseen object.)*
+<br>
+
+<div style="text-align: center;">
+  <img src="/images/ligrasp-execute.png" 
+       alt="Execution" 
+       width="400">
+  <p><em>Figure 6: Real-world grasp execution. (The toilet roll is a unseen 
+  object.)</em></p>
+</div>
+
+<br>
 
 
 ## Demo Video
