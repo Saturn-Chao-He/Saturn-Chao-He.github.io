@@ -18,7 +18,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 <div style="text-align: center;">
   <img src="/images/ligrasp-signal_pcd.png" 
        alt="LiDAR's 2D intensity image and 3D point cloud" 
-       width="400">
+       width="500">
   <p><em>Figure 1: 2D intensity image (top) and 3D point cloud (bottom) captured 
   by the Ouster-OS1-128 LiDAR. The scene contains a myCobot 320 robotic arm 
   with gripper and a tea box.</em></p>
@@ -42,7 +42,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 <div style="text-align: center;">
   <img src="/images/ligrasp-setup.png" 
        alt="Setup" 
-       width="400">
+       width="500">
   <p><em>Figure 3: Setup for data collection of 2D intensity image (left) and 3D 
   point cloud (right). (Most scenes were captured in darkness at night to demonstrate 
   the sensor's illumination-independent operation.)</em></p>
@@ -53,7 +53,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 <div style="text-align: center;">
   <img src="/images/ligrasp-ui.png" 
        alt="UI" 
-       width="700">
+       width="500">
   <p><em>User interface of the annotation tool.</em></p>
 </div>
 
@@ -64,7 +64,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 <div style="text-align: center;">
   <img src="/images/ligrasp-results.png" 
        alt="Results" 
-       width="400">
+       width="500">
   <p><em>Figure 5: Qualitative grasp predictions on validation and unseen test scenes. 
   (Green ones indicate the ground truths. Orange gripper shows the predicted grasp pose. 
   From left to right, top to bottom, these objects are table lamp, bottle, cup, power 
@@ -76,7 +76,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 <div style="text-align: center;">
   <img src="/images/ligrasp-execute.png" 
        alt="Execution" 
-       width="400">
+       width="500">
   <p><em>Figure 6: Real-world grasp execution. (The toilet roll is a unseen 
   object.)</em></p>
 </div>
