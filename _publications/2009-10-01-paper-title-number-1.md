@@ -4,10 +4,10 @@ collection: publications
 category: underreview
 permalink: /publication/2025-lidar-grasping
 excerpt: 'A novel LiDAR-based approach for robotic grasping.'
-date: 2026-03-01
+date: 2026-04-20
 venue: 'IEEE Robotics and Automation Letters (RA-L)'
 paperurl: 'https://arxiv.org/abs/YOUR_ID'
-citation: 'Chao He and Da Hu. (2026). &quot;LiGrasp: Camera-Free 6-DoF Robotic Grasp Pose Estimation via LiDAR Intensity Image and Point Cloud Fusion.&quot; <i>RA-L</i>.'
+citation: 'Chao He and Da Hu. (2026). &quot;LiGrasp: Camera-Free 6-DoF Robotic Grasp Pose Estimation via LiDAR Intensity Image and Point Cloud Fusion.&quot; <i>****</i>.'
 ---
 
 ## Abstract
@@ -26,8 +26,8 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 ## Demo Video
 
 <iframe width="560" height="315" 
-  src="https://www.youtube.com/embed/YOUR_VIDEO_ID" 
-  title="LiDAR Grasping Demo" 
+  src="https://www.youtube.com/watch?v=XqwjFWK7qmU" 
+  title="LiDAR-based Robotic Grasping Demo" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; 
          encrypted-media; gyroscope; picture-in-picture" 
@@ -36,10 +36,10 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 
 ## Citation
 ```bibtex
-@article{he2025lidar,
+@article{he2026ligrasp,
   author  = {He, Chao and others},
-  title   = {LiDAR-Based Robotic Grasping},
-  journal = {IEEE Robotics and Automation Letters},
-  year    = {2025}
+  title   = {LiGrasp: Camera-Free 6-DoF Robotic Grasp Pose Estimation via LiDAR Intensity Image and Point Cloud Fusion},
+  journal = {****},
+  year    = {2026}
 }
 ```
