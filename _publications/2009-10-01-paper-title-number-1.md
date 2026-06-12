@@ -36,14 +36,14 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 ![Results](/images/ligrasp-results.png)
 *Figure 5: Qualitative grasp predictions on validation and unseen test scenes. (Green ones indicate the ground truths. Orange gripper shows the predicted grasp pose. From left to right, top to bottom, these objects are table lamp, bottle, cup, power adaptor, KSU owl mascot, banana, mini Bluetooth speaker, stapler and doll).*
 
-![Execution](/images/lgrasp-execute.png)
+![Execution](/images/ligrasp-execute.png)
 *Figure 6: Real-world grasp execution. (The toilet roll is a unseen object.)*
 
 
 ## Demo Video
 
 <iframe width="560" height="315" 
-  src="https://www.youtube.com/watch?v=XqwjFWK7qmU" 
+  src="https://www.youtube.com/embed/XqwjFWK7qmU" 
   title="LiDAR-based Robotic Grasping Demo" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; 
