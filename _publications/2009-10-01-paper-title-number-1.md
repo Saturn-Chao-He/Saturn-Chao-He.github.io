@@ -18,7 +18,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 <div style="text-align: center;">
   <img src="/images/ligrasp-signal_pcd.png" 
        alt="LiDAR's 2D intensity image and 3D point cloud" 
-       width="700">
+       width="500">
   <p><em>Figure 1: 2D intensity image (top) and 3D point cloud (bottom) captured 
   by the Ouster-OS1-128 LiDAR. The scene contains a myCobot 320 robotic arm 
   with gripper and a tea box.</em></p>
