@@ -36,7 +36,7 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 ![Results](/images/ligrasp-results.png)
 *Figure 5: Qualitative grasp predictions on validation and unseen test scenes. (Green ones indicate the ground truths. Orange gripper shows the predicted grasp pose. From left to right, top to bottom, these objects are table lamp, bottle, cup, power adaptor, KSU owl mascot, banana, mini Bluetooth speaker, stapler and doll).*
 
-![Execution](/images/lgrasp-execution.png)
+![Execution](/images/lgrasp-execute.png)
 *Figure 6: Real-world grasp execution. (The toilet roll is a unseen object.)*
 
 
