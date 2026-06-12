@@ -15,13 +15,30 @@ In recent years, high-resolution LiDAR sensors have become standard equipment on
 
 ## Method Overview
 
-![Pipeline overview](/images/paper1_pipeline.png)
-*Figure 1: Our proposed LiDAR-based grasping pipeline.*
+![LiDAR's 2D intensity image and 3D point cloud](/images/ligrasp-signal_pcd.png)
+*Figure 1: 2D intensity image (top) and 3D point cloud (bottom) captured by the Ouster-OS1-128 LiDAR. The scene contains a myCobot\,320 robotic arm with gripper and a tea box.*
 
-## Qualitative Results
+![LiGrasp dual-branch architecture](/images/ligrasp-arc.png)
+*Figure 2: LiGrasp dual-branch architecture. The intensity branch
+    (top) processes the 2D LiDAR intensity image with an image encoder.
+    The geometric branch (bottom) processes the 3D point cloud with a
+    point cloud encoder. Both feature vectors are
+    concatenated and decoded into a 7-dimensional grasp pose.*
 
-![Results](/images/paper1_results.png)
-*Figure 2: Grasping results on real robot hardware.*
+![Setup](/images/ligrasp-setup.png)
+*Figure 3: User interface of the annotation tool.*
+
+![UI](/images/ligrasp-setup.png)
+*Figure 4: Setup for data collection of 2D intensity image (left) and 3D point cloud (right). (Most scenes were captured in darkness at night to demonstrate the sensor's illumination-independent operation.)*
+
+## Results
+
+![Results](/images/ligrasp-results.png)
+*Figure 5: Qualitative grasp predictions on validation and unseen test scenes. (Green ones indicate the ground truths. Orange gripper shows the predicted grasp pose. From left to right, top to bottom, these objects are table lamp, bottle, cup, power adaptor, KSU owl mascot, banana, mini Bluetooth speaker, stapler and doll).*
+
+![Execution](/images/lgrasp-execution.png)
+*Figure 6: Real-world grasp execution. (The toilet roll is a unseen object.)*
+
 
 ## Demo Video
 
