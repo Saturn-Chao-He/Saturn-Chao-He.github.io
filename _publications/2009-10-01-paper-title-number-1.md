@@ -1,7 +1,7 @@
 ---
 title: "LiGrasp: Camera-Free 6-DoF Robotic Grasp Pose Estimation via LiDAR Intensity Image and Point Cloud Fusion"
 collection: publications
-category: manuscripts
+category: underreview
 permalink: /publication/2025-lidar-grasping
 excerpt: 'A novel LiDAR-based approach for robotic grasping.'
 date: 2026-03-01
