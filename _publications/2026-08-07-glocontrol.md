@@ -53,7 +53,7 @@ in infrastructure-denied disaster environments.)</em></p>
 <div style="text-align: center;">
   <img src="/images/glocontrol-rtt.png" 
        alt="RTT" 
-       width="400">
+       width="500">
   <p><em>Figure 4: RTT ping-pong scheme over the data channel. (both timestamps recorded on the operator clock, no clock synchronization required.)</em></p>
 </div>
 
