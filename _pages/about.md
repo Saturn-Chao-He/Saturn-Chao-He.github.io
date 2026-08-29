@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Interdisciplinary Engineering at Kennesaw State University (graduating August 2027), advised by Professor Da Hu. My research focuses on **LiDAR-based perception**, **robotic grasping**, **disaster response** and **remote control**.
 
-I have three years of industry experience in remote driving of container truck at Hirain Technologies, Beijing. I am actively seeking **postdoctoral positions** in robotics starting August 2027.
+I have three years of industry experience in remote driving of container truck at Hirain Technologies, Beijing. I am actively seeking **postdoctoral or industrial positions** in robotics starting August 2027.
 
 ## Research Interests
 - LiDAR point cloud processing and perception
