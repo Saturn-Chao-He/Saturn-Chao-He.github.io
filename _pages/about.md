@@ -36,5 +36,5 @@ Education
 Skills
 ------
 - App Dev: C++, Python, CUDA, machine learning, robotic grasp, video transmission, video stitching, global control, WebRTC, NV Codec, LiDAR, NVIDIA Jetson.
-- Web Dev: HTML, JavaScript, Nginx/Apache Web Server, stream server, Cloud Server.
+- Web Dev: HTML, JavaScript, Nginx/Apache web server, stream server, cloud server.
 
