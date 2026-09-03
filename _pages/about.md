@@ -19,10 +19,10 @@ I have three years of industry experience in remote driving of container truck a
 
 Employment
 ------
-- [2021 -- 2024] &nbsp;&nbsp; **Software Engineer**. &nbsp;&nbsp; Department of Remote Driving, Hirain Technologies, Beijing, China.
+- [2022 -- 2024] &nbsp;&nbsp; **Software Engineer**. &nbsp;&nbsp; Department of Remote Driving, Hirain Technologies, Beijing, China.
   
   Develop video transmission via 5G of remote driving for container truck at harbor.
-- [2014 -- 2018] &nbsp;&nbsp; **Power Engineer**. &nbsp;&nbsp; Department of Power Generation, Guodian Datong Generations, Datong, China.
+- [2011 -- 2018] &nbsp;&nbsp; **Control Engineer**. &nbsp;&nbsp; Department of Power Generation, Guodian Datong Generations, Datong, China.
   
   Operation and maintenance work at power plant.
 
@@ -30,8 +30,7 @@ Education
 ------
 - [2024 -- now ] &nbsp;&nbsp; **Ph.D.** &nbsp;&nbsp; Kennesaw State University in Interdisciplinary Engineering.
 - [2018 -- 2021] &nbsp;&nbsp; **M.S.**  &nbsp;&nbsp;&nbsp; Arkansas State University in Computer Science.
-- [2011 -- 2014] &nbsp;&nbsp; **M.S.**  &nbsp;&nbsp;&nbsp; Inner Mongolia University of Science & Technology in Power Engineering.
-- [2007 -- 2011] &nbsp;&nbsp; **B.S.**  &nbsp;&nbsp;&nbsp; Taiyuan University of Technology in Power Engineering.
+- [2007 -- 2011] &nbsp;&nbsp; **B.S.**  &nbsp;&nbsp;&nbsp; Taiyuan University of Technology in Thermal Energy and Power Engineering.
 
 Skills
 ------
