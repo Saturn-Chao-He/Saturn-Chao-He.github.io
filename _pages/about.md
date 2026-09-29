@@ -79,10 +79,9 @@ human-in-the-loop failover when the autopilot failed.
 
 ## Skills
 
-**Robotics & Perception:** Global control, LiDAR perception, 3D point cloud processing, robotic grasp 
-pose estimation, 3D object detection, sensor fusion, NVIDIA Jetson Orin
+**Robotics & Perception:** Global control, LiDAR perception, 3D point cloud processing, robotic grasp, 3D object detection, sensor fusion, NVIDIA Jetson
 
-**Programming:** C/C++, Python, CUDA
+**Programming:** C/C++, Python, CUDA, HTML, JavaScript
 
 **Frameworks & Tools:** ROS, WebRTC, Janus, FFmpeg, NVIDIA Video Codec, OpenCV, QT, 
     Nginx/Apache, Cloud server, stream server deployment.
