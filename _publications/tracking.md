@@ -1,7 +1,7 @@
 ---
 title: "A LiDAR-Driven Framework for Monitoring and Speed Tracking on Construction Sites"
 collection: publications
-category: published
+category: journal
 permalink: /publication/2026-lidar-tracking
 excerpt: 'A novel LiDAR-based approach for monitoring and tracking.'
 date: 2026-05-14
