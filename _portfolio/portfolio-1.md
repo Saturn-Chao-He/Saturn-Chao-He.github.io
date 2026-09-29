@@ -18,7 +18,7 @@ Orin) through an Aliyun cloud relay to the remote driving platform rendering 8 G
 
 ## Key Contributions
 **1 Preliminary research**
-- compiling and developing of WebRTC source code; deploying WebRTC stream media server
+- Compiling and developing of WebRTC source code; deploying WebRTC stream media server
 
 **2 System Design**
 - Authored architecture design, testing manual, and development documentation
