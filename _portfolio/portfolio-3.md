@@ -1,6 +1,6 @@
 ---
 title: "LiWarn: A LiDAR-Based 3D Object Tracking and Speed Violation Warning System for Construction Site Safety"
-excerpt: "Camera-LiDAR sensor fusion <br/><img src='/images/fusion3.png' width='500'>"
+excerpt: "Warning System <br/><img src='/images/warn.png' width='500'>"
 collection: portfolio
 ---
 
@@ -24,6 +24,26 @@ mechanism enables targeted per-vehicle alerts without requiring
 additional infrastructure beyond a single LiDAR sensor.
 
 
-[Demo1](https://youtu.be/4AwM3QyL0vg)
+[Demo 1](https://youtu.be/4AwM3QyL0vg)
+## Demo Video
 
-[Demo2](https://youtu.be/XuNE9SLx9VA)
+<iframe width="560" height="315" 
+  src="[https://www.youtube.com/embed/XqwjFWK7qmU](https://youtu.be/4AwM3QyL0vg)" 
+  title="Demo 1" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; 
+         encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+[Demo 2](https://youtu.be/XuNE9SLx9VA)
+## Demo Video
+
+<iframe width="560" height="315" 
+  src="https://[www.youtube.com/embed/XqwjFWK7qmU](https://youtu.be/XuNE9SLx9VA)" 
+  title="Demo 2" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; 
+         encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
