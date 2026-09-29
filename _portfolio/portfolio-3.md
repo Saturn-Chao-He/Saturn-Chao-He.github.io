@@ -1,6 +1,6 @@
 ---
 title: "LiWarn: A LiDAR-Based 3D Object Tracking and Speed Violation Warning System for Construction Site Safety"
-excerpt: "In-vehicle edge device voice warning "slow down" when speed limits are exceeded. (marked in red on system) <br/><img src='/images/warn.png' width='500'>"
+excerpt: "In-vehicle edge device voice warning slow down when speed limits are exceeded. (marked in red on system) <br/><img src='/images/warn.png' width='500'>"
 collection: portfolio
 ---
 
