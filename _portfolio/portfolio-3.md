@@ -23,6 +23,8 @@ speed limits are exceeded. A GPS-based vehicle-to-track binding
 mechanism enables targeted per-vehicle alerts without requiring 
 additional infrastructure beyond a single LiDAR sensor.
 
+![demo](/images/warn.png)
+*Figure 1: In-vehicle edge device voice warning "slow down" when speed limits are exceeded. (marked in red on system)*
 
 [Demo 1](https://youtu.be/4AwM3QyL0vg)
 
