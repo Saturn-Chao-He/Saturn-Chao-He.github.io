@@ -28,7 +28,7 @@ additional infrastructure beyond a single LiDAR sensor.
 ## Demo Video 1
 
 <iframe width="560" height="315" 
-  src="[https://youtu.be/4AwM3QyL0vg" 
+  src="https://youtu.be/4AwM3QyL0vg" 
   title="Demo 1" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; 
