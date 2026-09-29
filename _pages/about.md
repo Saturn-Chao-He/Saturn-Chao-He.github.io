@@ -9,7 +9,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Interdisciplinary Engineering at Kennesaw State University 
 (graduating August 2027), advised by Professor Da Hu. My research 
-focuses on **LiDAR-based perception**, **robotic grasping**, **robot teleoperation** and **disaster response**. 
+focuses on **LiDAR-based perception**, **robotic grasping**, **global teleoperation** and **disaster response**. 
 
 Before my Ph.D., I spent three years as a Software Engineer at Hirain Technologies 
 (Beijing), where I independently built a real-time 5G/WebRTC video transmission system 
@@ -26,8 +26,8 @@ systems starting August 2027.
 
 ## Research Interests
 - LiDAR point cloud processing, 3D object detection, tracking and sensor fusion
-- Robotic grasp pose estimation and manipulation
-- Robot teleoperation
+- Robotic grasp and manipulation
+- Global teleoperation
 - Autonomous systems for disaster response and construction safety
 
 ---
@@ -79,12 +79,12 @@ human-in-the-loop failover when the autopilot failed.
 
 ## Skills
 
-**Robotics & Perception:** LiDAR perception, 3D point cloud processing, robotic grasp 
+**Robotics & Perception:** Global control, LiDAR perception, 3D point cloud processing, robotic grasp 
 pose estimation, 3D object detection, sensor fusion, NVIDIA Jetson Orin
 
 **Programming:** C/C++, Python, CUDA
 
 **Frameworks & Tools:** ROS, WebRTC, Janus, FFmpeg, NVIDIA Video Codec, OpenCV, QT, 
-    Nginx/Apache, Aliyun Cloud, stream server deployment.
+    Nginx/Apache, Cloud server, stream server deployment.
 
-**Machine Learning:** Deep learning for perception, object detection and segmentation.
+**Machine Learning:** 3D object detection, LLM, segmentation, CVAT, Ultralytics, OpenPCDet, TAO.
