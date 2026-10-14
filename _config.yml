@@ -84,12 +84,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  underreview:
-    title: 'Under Review'
-  journal:
-    title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  journal:
+    title: 'Journal Articles'    
+  underreview:
+    title: 'Under Review'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
