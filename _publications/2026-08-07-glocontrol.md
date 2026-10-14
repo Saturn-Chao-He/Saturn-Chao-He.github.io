@@ -1,7 +1,7 @@
 ---
 title: "GloControl: Global Teleoperation of Robots for Disaster Response Using WebRTC over Internet"
 collection: publications
-category: journal
+category: conferences
 permalink: /publication/2026-global-control
 excerpt: 'A global control system for disaster response robot.'
 date: 2026-08-07
