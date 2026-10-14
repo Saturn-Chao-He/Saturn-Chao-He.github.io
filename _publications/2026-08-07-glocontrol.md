@@ -103,7 +103,7 @@ in infrastructure-denied disaster environments.)</em></p>
 @article{he2026glocontrol,
   author  = {Chao He and Da Hu},
   title   = {GloControl: Global Teleoperation of Robots for Disaster Response Using WebRTC over Internet},
-  journal = {****},
+  journal = {International Performance Computing and Communications Conference (IPCCC)},
   year    = {2026}
 }
 ```
