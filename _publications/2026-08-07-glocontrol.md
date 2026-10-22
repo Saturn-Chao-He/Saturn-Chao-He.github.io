@@ -90,7 +90,7 @@ in infrastructure-denied disaster environments.)</em></p>
 ## Demo Video
 
 <iframe width="560" height="315" 
-  src="https://youtu.be/a3kIqrYvLx4" 
+  src="https://www.youtube.com/embed/a3kIqrYvLx4" 
   title="Global control of robot demo" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; 
