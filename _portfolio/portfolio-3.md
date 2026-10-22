@@ -26,8 +26,27 @@ additional infrastructure beyond a single LiDAR sensor.
 ![demo](/images/warn.png)
 *Figure 1: In-vehicle edge device voice warning "slow down" when speed limits are exceeded. (marked in red on system)*
 
-[Demo 1](https://youtu.be/4AwM3QyL0vg)
+
+## Demo Video 1
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/4AwM3QyL0vg" 
+  title="speed warning system demo 1" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; 
+         encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
 
-[Demo 2](https://youtu.be/XuNE9SLx9VA)
+## Demo Video 2
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/XuNE9SLx9VA" 
+  title="speed warning system demo 1" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; 
+         encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
 
