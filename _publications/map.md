@@ -12,3 +12,14 @@ citation: 'He, C.; Hu, D. Social Media Analytics for Disaster Response: Classifi
 
 ## Project Page
 [Interactive-Map-for-Disaster-Response](https://github.com/Saturn-Chao-He/Interactive-Map-for-Disaster-Response)
+
+## Demo Video
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/gU3no4x2rHs" 
+  title="Disaster response map Demo" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; 
+         encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
