@@ -42,8 +42,30 @@ additional infrastructure beyond a single LiDAR sensor.
 ## Demo Video 2
 
 <iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/0CKKnBfNn78" 
+  title="proximity warning system demo 2" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; 
+         encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+## Demo Video 3
+
+<iframe width="560" height="315" 
   src="https://www.youtube.com/embed/XuNE9SLx9VA" 
-  title="speed warning system demo 1" 
+  title="speed warning system demo 3" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; 
+         encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+## Demo Video 4
+
+<iframe width="560" height="315" 
+  src="https://www.youtube.com/embed/-HgY7wCSlL0" 
+  title="proximity warning system demo 4" 
   frameborder="0" 
   allow="accelerometer; autoplay; clipboard-write; 
          encrypted-media; gyroscope; picture-in-picture" 
