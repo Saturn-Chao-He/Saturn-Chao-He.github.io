@@ -12,19 +12,19 @@ are labor-intensive, prone to human error, and unable to provide
 real-time situational awareness or automated intervention.
 This work presents LiWarn, 
 a LiDAR-based system for automated 3D object detection, multi-object 
-tracking, and real-time speed violation warning in construction site 
+tracking, and real-time speed violation and proximity warning in construction site 
 environments. Five state-of-the-art 3D object detection methods are 
 evaluated: PointPillars, SECOND, PointRCNN, Part-A2, and PV-RCNN. 
 The best-performing model is integrated with a Kalman filter-based 
 multi-object tracker for continuous speed estimation, and an edge 
 computing alert pipeline that delivers audible warnings to vehicle 
 operators via NVIDIA Jetson and ChipIntelli CI1302 voice chips when 
-speed limits are exceeded. A GPS-based vehicle-to-track binding 
+speed limits are exceeded or worker within proximity limit of vehicle. A GPS-based vehicle-to-track binding 
 mechanism enables targeted per-vehicle alerts without requiring 
 additional infrastructure beyond a single LiDAR sensor.
 
 ![demo](/images/warn.png)
-*Figure 1: In-vehicle edge device voice warning "slow down" when speed limits are exceeded. (marked in red on system)*
+*Figure 1: In-vehicle edge device voice warning "slow down" when speed limits are exceeded (marked in red on system) and warning "attention, person nearby" when the worker within the proximity limit of vehicle.*
 
 
 ## Demo Video 1
